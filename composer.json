@@ -19,8 +19,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "neomerx/json-api": "~2.2",
-        "znck/belongs-to-through": "~2.2",
+        "neomerx/json-api": "*",
+        "znck/belongs-to-through": "*",
         "czim/laravel-dataobject": "~1.0"
     },
     "require-dev": {
