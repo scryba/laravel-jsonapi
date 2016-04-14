@@ -1,5 +1,5 @@
 {
-    "name": "czim/laravel-jsonapi",
+    "name": "scryba/laravel-jsonapi",
     "description": "Basic setup for making a JSON-API server in Laravel. Based on neomerx/json-api.",
     "keywords": [
         "json-api",
